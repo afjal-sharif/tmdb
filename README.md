@@ -20,7 +20,12 @@ python3 ./tmdb.py
 ## Commands
 
 > start: starts the bot
+> 
 > help: show you all the possible commands
+> 
 > details: get details of the tv show passed as argument
+> 
 > top: show most popular tv shows of the moment
+> 
 > language: set the bot's language to the one passed as argument
+> 
